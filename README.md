@@ -1,0 +1,1 @@
+# image-vignette-C--C--asmx64
