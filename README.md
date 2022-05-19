@@ -1,1 +1,1 @@
-# image-vignette-C--C--asmx64
+# University project - Assembly languages classes
