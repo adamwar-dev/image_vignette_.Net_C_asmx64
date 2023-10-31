@@ -1,6 +1,5 @@
 # University project - Assembly languages classes
 
-The project required writing an application and gui, e.g. in windows forms. 
-The key algorithm was to be implemented in a high-level library and assembly x64 library.
+For my university project in Assembly languages classes, I was required to write an application with a graphical user interface (GUI), for instance, in Windows forms. The crucial algorithm was supposed to be implemented in a high-level library and an assembly x64 library.
 
-The uploaded project contains only source code and comments in Polish.
+The project that I have uploaded includes only the source code with comments in Polish.
